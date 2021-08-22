@@ -1,0 +1,2 @@
+# python-data-crawler-on-NLP-datasets
+In this Repository I will try to keep the code snippets with which I tried to crawled the  digital halth care related to nlp datasets like from #daktarvai, #webmd and etc.We have been extracted data only for research purpose which invokes no harm .IT's Strictly  prohibited to use for any commercial puspose. If happens so, the author may keep the right to sue the user. Knowledge is for everyone !let's learn it together Champs!  
